@@ -1,6 +1,6 @@
 # HyperVC
 
-Paper : [Bending the Future: Autoregressive Modeling of Temporal Knowledge Graphs in Curvature-Variable Hyperbolic Spaces](https://arxiv.org/pdf/2209.05635)
+Paper : [Bending the Future: Autoregressive Modeling of Temporal Knowledge Graphs in Curvature-Variable Hyperbolic Spaces](https://arxiv.org/abs/2209.05635)
 
 ## Abstract
 
@@ -40,5 +40,4 @@ Bibtex:
         author={Jihoon Sohn, Mingyu Derek Ma, Muhao Chen},
         booktitle={4th Conference on Automated Knowledge Base Construction},
         year={2022},
-        url={https://arxiv.org/pdf/2209.05635}
     }
