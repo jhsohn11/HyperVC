@@ -8,7 +8,7 @@ Recently there is an increasing scholarly interest in time-varying knowledge gra
 
 
 
-## Installation
+## Experiments
 
 1. Select Poincare/Lorentz model of hyperbolic space first.
 
@@ -32,6 +32,8 @@ Recently there is an increasing scholarly interest in time-varying knowledge gra
 
 
 ## Reference
+
+Bibtex:
 
     @inproceedings{sohn2022bending,
         title={Bending the Future: Autoregressive Modeling of Temporal Knowledge Graphs in Curvature-Variable Hyperbolic Spaces},
